@@ -1,0 +1,37 @@
+                            TAREAS PENDIENTES DEL PROYECTO
+
+                            CONSULTAS PERSONALIZADAS
+Consulta personalizada para no llamar a tantas clases juntas a la hora de guardar Campaing por ejemplo.
+
+                            MANEJO DE ERRORES
+
+Manejo de errores en getById, delete y update! 404 not found o bad request.
+
+
+
+
+                             CALCULOS RESUMENES Y RECOPILACION DE DATOS
+
+
+COSTO DIRECTO = TOTAL INSUMOS + TOTAL LABORES      // usd/ha
+
+RENDIMIENTO = QUINTALES/HA
+
+PRECIO = RENDIMIENTO / 10
+
+GASTOS COMERCIALIZACION = RENDIMIENTO * %COMERZIALIZACION (transporte + comision)
+                           ejemplo = 25,5usd/qq * 17% ---->  25,5*0.17
+
+PRECIO NETO = PRECIO - GASTOS COMERCIALIZACION
+
+INGRESO BRUTO = PRECIO NETO * RENDIMIENTO
+
+MB = INGRESO BRUTO - COSTO DIRECTO
+
+RTO INDIFERENCIA = COSTO DIRECTO / PRECIO NETO
+
+MB/CD = MB /  COSTO DIRECTO
+
+
+
+                                            ## MEJORAR LOS UPDATE PORQUE NO FUNCIONAN COMO CORRESPONDE
