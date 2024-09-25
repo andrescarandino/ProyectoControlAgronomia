@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.andres.agricultura.v1.service.impl.FertilizerServiceTest
--------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.019 s -- in com.andres.agricultura.v1.service.impl.FertilizerServiceTest
