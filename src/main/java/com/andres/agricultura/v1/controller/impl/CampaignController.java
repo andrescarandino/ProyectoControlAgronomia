@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import com.andres.agricultura.v1.service.impl.CampaignService;
 
 @RestController
-@RequestMapping("/campaings")
+@RequestMapping("/campaigns")
 public class CampaignController {
 
     @Autowired

@@ -69,7 +69,7 @@ public class ParcelService {
                         .orElseThrow(() -> new NotFoundException("Parcel not found with id=" +parcelDto.getId()));
 
         parcelBD.getCampaigns().clear();
-        parcelDto.getCampaings().forEach( camp -> {
+        parcelDto.getCampaigns().forEach( camp -> {
             Campaign campaign = campaignRepository.findById(camp.getId())
                     .orElseThrow(() -> new BadRequestException("Campaing not found with id=" +camp.getId()));
             parcelBD.addCampaign(campaign);

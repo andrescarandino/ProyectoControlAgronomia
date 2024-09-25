@@ -23,6 +23,6 @@ public class ParcelDto {
     private Integer productivityIndex;
     private String nomeclature;
     private String limitation;
-    private Set<CampaignDto> campaings;
+    private Set<CampaignDto> campaigns;
 
 }

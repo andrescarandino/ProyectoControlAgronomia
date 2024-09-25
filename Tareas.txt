@@ -1,13 +1,3 @@
-                            TAREAS PENDIENTES DEL PROYECTO
-
-                            CONSULTAS PERSONALIZADAS
-Consulta personalizada para no llamar a tantas clases juntas a la hora de guardar Campaing por ejemplo.
-
-                            MANEJO DE ERRORES
-
-Manejo de errores en getById, delete y update! 404 not found o bad request.
-
-
 
 
                              CALCULOS RESUMENES Y RECOPILACION DE DATOS
@@ -31,7 +21,3 @@ MB = INGRESO BRUTO - COSTO DIRECTO
 RTO INDIFERENCIA = COSTO DIRECTO / PRECIO NETO
 
 MB/CD = MB /  COSTO DIRECTO
-
-
-
-                                            ## MEJORAR LOS UPDATE PORQUE NO FUNCIONAN COMO CORRESPONDE
